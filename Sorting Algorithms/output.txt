@@ -1,0 +1,102 @@
+Heap Sort
+	Inorder
+
+
+ ms
+	Reverse-Order
+
+
+ ms
+	Almost-Order(20% Unsorted)
+
+
+ ms
+	Random-Order(80% Unsorted)
+
+
+ ms
+Insertion Sort
+	Inorder
+
+
+ ms
+	Reverse-Order
+
+
+ ms
+	Almost-Order(20% Unsorted)
+
+
+ ms
+	Random-Order(80% Unsorted)
+
+
+ ms
+Merge Sort
+	Inorder
+
+
+ ms
+	Reverse-Order
+
+
+ ms
+	Almost-Order(20% Unsorted)
+
+
+ ms
+	Random-Order(80% Unsorted)
+
+
+ ms
+Quick Sort
+	Inorder
+
+
+ ms
+	Reverse-Order
+
+
+ ms
+	Almost-Order(20% Unsorted)
+
+
+ ms
+	Random-Order(80% Unsorted)
+
+
+ ms
+Radix Sort
+	Inorder
+
+
+ ms
+	Reverse-Order
+
+
+ ms
+	Almost-Order(20% Unsorted)
+
+
+ ms
+	Random-Order(80% Unsorted)
+
+
+ ms
+Selection Sort
+	Inorder
+
+
+ ms
+	Reverse-Order
+
+
+ ms
+	Almost-Order(20% Unsorted)
+
+
+ ms
+	Random-Order(80% Unsorted)
+
+
+ ms
